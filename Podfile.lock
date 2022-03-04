@@ -1,0 +1,20 @@
+PODS:
+  - Magnetic (3.2.1)
+  - WobbleBubbleButton (0.0.6)
+
+DEPENDENCIES:
+  - Magnetic
+  - WobbleBubbleButton
+
+SPEC REPOS:
+  trunk:
+    - Magnetic
+    - WobbleBubbleButton
+
+SPEC CHECKSUMS:
+  Magnetic: 02b9d6686160421cc4285140387419ec9ccab033
+  WobbleBubbleButton: 2704770229bd2eb36c8fa103d3807d1722c1f580
+
+PODFILE CHECKSUM: 27f05e5b25231f7cf85f355dc5e110d8593f5b30
+
+COCOAPODS: 1.11.2
